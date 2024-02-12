@@ -15,3 +15,6 @@
 ![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/969eaca8-f231-4f33-8f7e-ffff4dfed446)
 
 ![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/1044ba74-91f2-4502-ac32-cf616f47c735)
+
+![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/52086494-5f28-4d5e-9d66-d9a11c71d2b4)
+
