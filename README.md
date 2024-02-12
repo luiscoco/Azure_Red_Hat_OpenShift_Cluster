@@ -9,3 +9,9 @@
 ![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/27470828-eff8-497e-ab5d-cff945a76726)
 
 ![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/36997574-4601-4704-8b86-9b9694ed3e54)
+
+![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/c1342433-dff4-463c-8870-2caede52bbbf)
+
+![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/969eaca8-f231-4f33-8f7e-ffff4dfed446)
+
+![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/1044ba74-91f2-4502-ac32-cf616f47c735)
