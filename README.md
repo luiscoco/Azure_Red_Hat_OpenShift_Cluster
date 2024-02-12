@@ -8,6 +8,8 @@ Deploying an Azure Red Hat OpenShift cluster in the Azure portal: https://www.yo
 
 https://console.redhat.com/openshift/downloads
 
+![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/334d0c26-a607-4a09-ac8b-91887c10c729)
+
 ![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/7d66fd39-999e-48d9-b8d1-74d96bb6718d)
 
 ![image](https://github.com/luiscoco/Azure_Red_Hat_OpenShift_Cluster/assets/32194879/4d5c5bbd-6bf9-4066-9001-2338c9e0dcf8)
