@@ -4,6 +4,8 @@ https://learn.microsoft.com/en-us/azure/openshift/quickstart-portal?source=recom
 
 https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster
 
+https://www.youtube.com/@OpenShift/videos
+
 Deploying an Azure Red Hat OpenShift cluster in the Azure portal: https://www.youtube.com/watch?v=iY66MONBfVQ
 
 https://console.redhat.com/openshift/downloads
